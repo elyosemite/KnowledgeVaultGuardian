@@ -1,6 +1,6 @@
-## 📥 Content Submission Process
+## Content Submission Process
 
-### 1. Discussion Phase 💬
+### 1. Discussion Phase
 
 **Discussion Title Format:**  
 `[Review][Tech Domain] - Descriptive Title`  
@@ -31,3 +31,4 @@ graph LR
     G -->|Approved| H[Knowledge Base]
     G -->|Rejected| I[Return for Fixes]
 ```
+Whether you are confused by any of the concepts presented, feel free to open an issue and ask.
