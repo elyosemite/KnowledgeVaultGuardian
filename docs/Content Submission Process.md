@@ -45,7 +45,6 @@ Common Rejection Reasons:
 |**Commercial Content	Requires email signup**|Verify open access|
 |**Outdated Methods**|Uses deprecated APIs|Check publication date|
 
-
 ## Batch Processing Tips
 **Recommended Workflow:**
 1. Collect links privately (1-2 weeks)
