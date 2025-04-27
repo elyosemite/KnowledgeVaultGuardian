@@ -9,7 +9,6 @@ A collaborative knowledge curation system for technical content validation and p
 - [Getting Started](#-getting-started)
 - [Content Submission Process](#-content-submission-process)
 - [Repository Structure](#-repository-structure)
-- [Governance Model](#-governance-model)
 - [Automation](#-automation)
 - [Contributing](#-contributing)
 
