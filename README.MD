@@ -5,23 +5,8 @@
 A collaborative knowledge curation system for technical content validation and preservation over time.
 
 ## Table of Contents
-- [Workflow Overview](#-workflow-overview)
-- [Getting Started](#-getting-started)
-- [Content Submission Process](#-content-submission-process)
+- [Workflow Overview](docs/Workflow%20Overview.md)
+- [Getting Started](docs/Getting%20Started.md)
+- [Content Submission Process](docs/Content%20Submission%20Process.md)
 - [Repository Structure](#-repository-structure)
 - [Contributing](#-contributing)
-
-## Workflow Overview
-
-```mermaid
-graph TD
-    A[Collect Links] --> B[Start Discussion]
-    B --> C{Approved?}
-    C -->|Yes| D[Create Issue]
-    C -->|No| E[Archive Rejection]
-    D --> F[Project Board]
-    F --> G[Create PR]
-    G --> H{Merge Approved?}
-    H -->|Yes| I[Update Knowledge Base]
-    H -->|No| J[Return for Fixes]
-```
