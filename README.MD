@@ -8,3 +8,6 @@ A collaborative knowledge curation system for technical content validation and p
 - [Getting Started](docs/Getting%20Started.md)
 - [Content Submission Process](docs/Content%20Submission%20Process.md)
 - [Repository Structure](docs/Project%20Structure.md)
+
+## Contribution
+Simply start a discussion and open an issue
